@@ -72,7 +72,7 @@ $ yarn run start
 
 eg:
 
--   Transfer ammount from - to:
+-   Transfer
 
 ![](./task_2.png)
 
