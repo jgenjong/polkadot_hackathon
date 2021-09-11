@@ -1,6 +1,6 @@
 
  
- Start a Private Network with substrate
+ Start a Private Network With Substrate
 ---------------------------------
 
 ### Depedencies
